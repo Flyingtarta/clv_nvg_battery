@@ -25,3 +25,8 @@ batterys have 5 hours duration, if you use time aceleration, this time will afec
 the batterys that use are from ACE3 "Laserbatteries" or laser designator bateries on magazines. 
 
 this will be a mod in a future.
+
+**Discalimer:**
+
+**This scripts is in test phase if you need to disable it midgame execute on console:**
+``missionnamespace setvariable ["TARTA_NV_BATTERY,false,true];``
