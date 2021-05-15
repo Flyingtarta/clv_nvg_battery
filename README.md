@@ -30,4 +30,4 @@ this will be a mod in a future.
 
 **This scripts is in test phase if you need to disable it midgame execute on console:**
 
-``missionnamespace setvariable ["TARTA_NV_BATTERY_EXIT",true,true];``
+``missionnamespace setvariable ["TARTA_NVB_BATTERY_EXIT",true,true];``
