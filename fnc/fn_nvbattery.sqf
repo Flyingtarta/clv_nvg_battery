@@ -1,4 +1,15 @@
+
 if !(hasInterface) exitWith {};
+/*
+	Author:
+		[calaveras] FlyingTarta
+	Description:
+	 	Adds battery duration to night vision googles
+	Parameter(s):
+		NOTHING
+	Returns:
+		NOTHING
+*/
 #define HORAS 5
 TARTA_NVB_DURACIONBATERIA = 3600*HORAS; // duracion de la bateria (5hs)
 TARTA_NVB_estadoBateria = TARTA_NVB_DURACIONBATERIA;
