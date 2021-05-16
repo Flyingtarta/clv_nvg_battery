@@ -21,7 +21,7 @@ class RscTitles
 
 #DO NOT CHANGE FOLDER NAME
 
-batterys have 5 hours duration, if you use time aceleration, this time will afect battery duration 
+battery have 5 hours duration, if you use time aceleration, this time will afect battery duration 
 the batterys that use are from ACE3 "Laserbatteries" or laser designator bateries on magazines. 
 
 this will be a mod in a future.
